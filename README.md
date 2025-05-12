@@ -1,7 +1,5 @@
 # MSBD6000M-RL\_Assignment\_2
 
----
-
 ## 1. `MSBD6000M_Assignment2.ipynb`
 
 * **Description**: Jupyter notebook implementing PPO training for Super Tic-Tac-Toe in a **simplified** environment.
