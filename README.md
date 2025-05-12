@@ -1,7 +1,5 @@
 # MSBD6000M-RL\_Assignment\_2
 
-This repository contains all files for **Assignment 2** of the MSBD6000M course, including implementations in both simplified and full environments, unit tests, and a detailed report.
-
 ---
 
 ## 1. `MSBD6000M_Assignment2.ipynb`
